@@ -1,5 +1,5 @@
 Summary:	PulseAudio plugin for libao
-Summary(pl.UTF-8):   Wtyczka PulseAudio dla libao
+Summary(pl.UTF-8):	Wtyczka PulseAudio dla libao
 Name:		libao-pulse
 Version:	0.9.3
 Release:	1
