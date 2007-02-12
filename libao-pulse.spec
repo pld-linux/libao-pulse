@@ -1,5 +1,5 @@
 Summary:	PulseAudio plugin for libao
-Summary(pl):	Wtyczka PulseAudio dla libao
+Summary(pl.UTF-8):   Wtyczka PulseAudio dla libao
 Name:		libao-pulse
 Version:	0.9.3
 Release:	1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 libao-pulse is a libao driver for the PulseAudio sound server.
 
-%description -l pl
-libao-pulse to sterownik libao dla serwera d¼wiêku PulseAudio.
+%description -l pl.UTF-8
+libao-pulse to sterownik libao dla serwera dÅºwiÄ™ku PulseAudio.
 
 %prep
 %setup -q
